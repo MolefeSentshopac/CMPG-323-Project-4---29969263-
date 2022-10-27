@@ -33,6 +33,18 @@ Category
 Test Results
 All True/False Values in Worksheet need to be indicated with Uppercase
 
+REFRENCE LIST
+UIPath Video Tutorial
+How to check for data in extracted table
+Community Discussion about Datatables
+How to call other Seqences
+UiPath-Invoke WorkflowFile Activity-How to call one workflow or Sequence from another sequence
+How to work with text files
+Create custom datatypes
+Create Complex Datatypes
+How to read excel Files
+Read, Write, and Append Data in Excel
+
 Order of opperation process
 First Log in
 The RPA will start by cleaning the websites data.
