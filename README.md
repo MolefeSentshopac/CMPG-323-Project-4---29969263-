@@ -1,4 +1,13 @@
 # CMPG-323-Project-4---29969263-
+Branching Strategy
+main: Production ready to be used Branch
+hotfix: Branch to patch small issues
+development Zones: Development branch where all functionality relating to Zones are done
+development Devices: Development branch where all functionality relating to Devices are done
+development Categories: Development branch where all functionality relating to Categories are done
+
+Proces definition document
+
 Login Process
 Delete All Zones Process
 Delete All Devices Process
