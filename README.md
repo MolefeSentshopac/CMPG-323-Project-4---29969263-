@@ -20,6 +20,7 @@ Read All Devices From Workbook
 Read All Categories From Workbook
 Compare Input Data and Returned Data
 Create Report
+
 Requirements
 Requires a text file to be placed in the root directory with the following format
 Username
@@ -31,3 +32,12 @@ Zone
 Category
 Test Results
 All True/False Values in Worksheet need to be indicated with Uppercase
+
+Order of opperation process
+First Log in
+The RPA will start by cleaning the websites data.
+Then extract all the different sheets from the excel Workbook
+Then the CRUD tests will be done on the Zone Data
+Then the CRUD tests will be done on the Category Data
+Then finally the CRUD tests will be done on the Device Data
+Finally Logging out
